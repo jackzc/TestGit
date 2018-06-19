@@ -5,4 +5,6 @@ Git tracks changes of files.
 
 test---
 
-creating a new baranch is queick
+icreating a new baranch is queick
+
+now git on dev branch
