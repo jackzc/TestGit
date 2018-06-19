@@ -5,6 +5,6 @@ Git tracks changes of files.
 
 test---
 
-icreating a new baranch is queick
+Creating a new branch is quick & simple.
 
 now git on dev branch
